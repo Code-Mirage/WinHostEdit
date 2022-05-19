@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Welcome WinHostEdit Pages
 
-You can use the [editor on GitHub](https://github.com/Code-Mirage/WinHostEdit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<img src="https://github.com/JackCodeMagic/WinHostEdit/blob/gh-pages/WinHostEdit.PNG?raw=true" alt="hi" class="inline" /><br /><br />
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+date: 03-01-2022<br />
+Release: Version 8.0.0.0 <br />
+Languages: ChineseTraditional ChineseSimplified Czech French German Indonesian Japanese Korean Russian Turkish Vietnamese<br />
 
-### Markdown
+<a href="https://github.com/JackCodeMagic/WinHostEdit/blob/gh-pages/WinHostEditSetup.exe?raw=true" class="btn btn-github">Dowmload Install File</a><br />
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Attach MIT License
+MaxMind.Db.3.0.0<br />
+MaxMind.GeoIP2.4.0.1<br />
+SharpZipLib.1.3.3<br />
+Whois.3.0.1<br />
 
-```markdown
-Syntax highlighted code block
+## Statement
+Can be used for free personal use of,prohibited any business practices<br />
+You can feel free to copy and share,can be placed in any site store<br />
+If there is any sale of business, as well as against the law behavior,and the present author have nothing to do<br />
+All by itself for a walk and the sale of the user responsible for<br />
 
-# Header 1
-## Header 2
-### Header 3
+## Quick operation
+Mode of operation:in the IP and URL to a single grid on the connected Press,you can edit the information!<br />
+Press Enter to store the information!<br />
 
-- Bulleted
-- List
+## License key
+<img src="https://github.com/JackCodeMagic/WinHostEdit/blob/gh-pages/licensekey.PNG?raw=true" alt="hi" class="inline" /><br />
 
-1. Numbered
-2. List
+MaxMind<br />
 
-**Bold** and _Italic_ and `Code` text
+<a href="https://www.maxmind.com/en/accounts/177088/license-key">Link Page</a><br />
 
-[Link](url) and ![Image](src)
-```
+Register Account, Obtain License Keys
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Code-Mirage/WinHostEdit/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## OLD Version
+The old version was used in my own profession and there was no need to provide it!
+<br /><br />
