@@ -6,7 +6,7 @@ date: 03-01-2022<br />
 Release: Version 8.0.0.0 <br />
 Languages: ChineseTraditional ChineseSimplified Czech French German Indonesian Japanese Korean Russian Turkish Vietnamese<br />
 
-<a href="https://github.com/JackCodeMagic/WinHostEdit/blob/gh-pages/WinHostEditSetup.exe?raw=true" class="btn btn-github">Dowmload Install File</a><br />
+<a href="https://github.com/Code-Mirage/WinHostEdit/blob/gh-pages/WinHostEditSetup.exe?raw=true" class="btn btn-github">Dowmload Install File</a><br />
 
 ## Attach MIT License
 MaxMind.Db.3.0.0<br />
