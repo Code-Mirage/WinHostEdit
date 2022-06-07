@@ -1,12 +1,12 @@
 ## Welcome WinHostEdit Pages
 
-<img src="https://github.com/Code-Mirage/WinHostEdit/blob/gh-pages/WinHostEdit.PNG?raw=true" alt="hi" class="inline" /><br /><br />
+<img src="https://github.com/JackCode-Mirage/WinHostEdit/blob/gh-pages/WinHostEdit.PNG?raw=true" alt="hi" class="inline" /><br /><br />
 
 date: 03-01-2022<br />
 Release: Version 8.0.0.0 <br />
 Languages: ChineseTraditional ChineseSimplified Czech French German Indonesian Japanese Korean Russian Turkish Vietnamese<br />
 
-<a href="https://github.com/Code-Mirage/WinHostEdit/blob/gh-pages/WinHostEditSetup.exe?raw=true" class="btn btn-github">Dowmload Install File</a><br />
+<a href="https://github.com/JackCode-Mirage/WinHostEdit/blob/gh-pages/WinHostEditSetup.exe?raw=true" class="btn btn-github">Dowmload Install File</a><br />
 
 ## Attach MIT License
 MaxMind.Db.3.0.0<br />
@@ -25,7 +25,7 @@ Mode of operation:in the IP and URL to a single grid on the connected Press,you 
 Press Enter to store the information!<br />
 
 ## License key
-<img src="https://github.com/Code-Mirage/WinHostEdit/blob/gh-pages/licensekey.PNG?raw=true" alt="hi" class="inline" /><br />
+<img src="https://github.com/JackCode-Mirage/WinHostEdit/blob/gh-pages/licensekey.PNG?raw=true" alt="hi" class="inline" /><br />
 
 MaxMind<br />
 
