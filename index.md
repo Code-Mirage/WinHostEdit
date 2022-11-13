@@ -2,9 +2,10 @@
 
 <img src="https://github.com/JackCodeMS/WinHostEdit/blob/gh-pages/WinHostEdit.PNG?raw=true" alt="hi" class="inline" /><br /><br />
 
-date: 03-01-2022<br />
-Release: Version 8.0.0.0 <br />
+
+Release: Version 8.1.0.0 <br />
 Languages: ChineseTraditional ChineseSimplified Czech French German Indonesian Japanese Korean Russian Turkish Vietnamese<br />
+Date of update: 11/13/2022<br />
 
 <a href="https://github.com/JackCodeMS/WinHostEdit/blob/gh-pages/WinHostEditSetup.exe?raw=true" class="btn btn-github">Dowmload Install File</a><br />
 
