@@ -1,4 +1,4 @@
 # WinHostEdit
 WinHostEdit
 
-https://JackCodeMS.github.io/WinHostEdit/
+https://JackCode474.github.io/WinHostEdit/
