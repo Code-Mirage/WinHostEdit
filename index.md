@@ -4,9 +4,9 @@
 
 ## Dowmload
 
-Release: Version 8.1.0.0 <br />
+Release: Version 8.2.0.0 <br />
 Languages: ChineseTraditional、ChineseSimplified、Czech、French、German、Indonesian、Japanese、Korean、Russian、Turkish、Vietnamese<br />
-Date of update: 11/13/2022<br />
+Date of update: 04/17/2023<br />
 
 <a href="https://github.com/CodeMirageM/WinHostEdit/blob/gh-pages/WinHostEditSetup.exe?raw=true" class="btn btn-github">Dowmload Install File</a><br />
 
